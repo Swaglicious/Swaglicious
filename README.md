@@ -1,4 +1,4 @@
-## Hi there 🦝
+## What's Up Chat What's up Gang!! 🦝
 
 <!--
 **Swaglicious/Swaglicious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
