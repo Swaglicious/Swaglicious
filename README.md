@@ -1,5 +1,5 @@
 <!-- gif for header -->
-<img src="https://steamuserimages-a.akamaihd.net/ugc/2122943145132198278/0E6256D3BEB585CE316C3F91EFC8D830F3BC08D7/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<img src="https://steamuserimages-a.akamaihd.net/ugc/2122943145132198278/0E6256D3BEB585CE316C3F91EFC8D830F3BC08D7/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="640" height="320">
 
 
 
