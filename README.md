@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##About Me 👾
+## About Me 👾
 
 - 💻 I'm studying for a bachelor's degree in Media Arts and Sciences, focusing on Graphic Information Technology at Arizona State University!
 - 🍄 I'm on the track to learning everything I need to know to become a web designer.
