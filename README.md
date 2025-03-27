@@ -10,7 +10,7 @@
 ### About me 👾
 - :computer: I am currently a student at Arizona State University, majoring in Media Arts and Sciences with an emphasis on Graphic Information Technology.
 - :mushroom: I am aiming to become a front-end developer after college!
-- :lotus: In my free time, I enjoy playing video games like Marvel Rivals and Fortnite. Otherwise, you can find me organizing events or fulfilling my presidential duties for my social club!
+- :lotus: In my free time, I enjoy playing video games like Marvel Rivals and Fortnite. Otherwise, you can find me organizing events or fulfilling my presidential duties for my sorority!
 
 <!--Github streak-->
 ### GitHub Stats <a href="https://github.com/Swaglicious"><img src="https://user-images.githubusercontent.com/74038190/216656986-e4424d73-56dd-4e0d-96ac-66f9f2c3be42.gif" height = 42/></a>
