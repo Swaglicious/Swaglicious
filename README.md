@@ -13,7 +13,7 @@
 - :lotus: In my free time, I enjoy playing video games like Marvel Rivals and Fortnite. Otherwise, you can find me organizing events or fulfilling my presidential duties for my social club!
 
 <!--Github streak-->
-### GitHub Stats <a href="https://github.com/Swaglicious"><img src="https://user-images.githubusercontent.com/74038190/216656986-e4424d73-56dd-4e0d-96ac-66f9f2c3be42.gif" height = 42/></a>
+### GitHub Stats <a href="https://github.com/Swaglicious"><img src="https://user-images.githubusercontent.com/74038190/216656986-e4424d73-56dd-4e0d-96ac-66f9f2c3be42.gif" height = 42 wdith=42/></a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Swaglicious&theme=modern-lilac2)](https://github.com/Swaglicious)
 
