@@ -9,7 +9,7 @@
 <!--About me-->
 ### About me 👾
 - :computer: I recently graduated from Arizona State University with a degree in Media Arts and Sciences, specializing in Graphic Information Technology.
-- :lotus: In my free time, I enjoy playing video games like Marvel Rivals and Fortnite. Otherwise, you can find me organizing events or fulfilling my presidential duties for my social club!
+- :lotus: In my free time, I enjoy playing video games like Marvel Rivals and Arc Raiders or reading a book. Otherwise, you can find me out with family and friends!
 
 <!--Github streak-->
 ### GitHub Stats 
